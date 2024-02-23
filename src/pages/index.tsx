@@ -40,6 +40,7 @@ export default function Home() {
           alt="Next.js Logo"
           width={1000}
           height={1000}
+          priority
         />
       </div>
 
